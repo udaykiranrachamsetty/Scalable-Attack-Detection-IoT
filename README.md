@@ -1,6 +1,6 @@
 # Scalable Attack Detection IoT
 
-## Overview
+## Pre Processing of Dataset
 
 The data preprocessing of IoT-23 dataset.The lighter version of the dataset contains 23 labled files , these 23 datasets are seperately loaded into Pandas dataframe . First 10 rows of the labled files contains header information so by dropping those columns and combaining all the dataframes into new dataset which is used for further process.
 dataset: 
